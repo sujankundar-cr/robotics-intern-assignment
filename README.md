@@ -1,5 +1,11 @@
 # robotics-intern-assignment
 ROS2 FR3 robot with eye-in-hand camera (internship assignment)
+## ✅ What I Implemented
+- FR3 robot URDF setup
+- Eye-in-hand camera attachment to the end-effector
+- RViz visualization of robot and camera
+- Validation through screenshots and demo video
+
 ## 📸 Screenshots
 The following screenshots show the FR3 robot model, eye-in-hand camera attachment, and RViz visualization.
 
@@ -18,3 +24,13 @@ https://drive.google.com/drive/folders/1bVhx7XlzRDF0bxvEecdpySPIc3PyEQ4U?usp=sha
 2. Build the workspace using colcon
 3. Launch the FR3 robot description with RViz
 4. Visualize the eye-in-hand camera setup
+
+## 📌 Project Overview
+This project demonstrates a ROS2-based FR3 robot model with an eye-in-hand camera setup, visualized in RViz. The assignment focuses on robot description, camera attachment, and visualization for perception-oriented robotics tasks.
+
+## 🛠 Tools & Technologies
+- ROS2
+- URDF / XACRO
+- RViz2
+- Franka Emika FR3 robot model
+- Ubuntu Linux
